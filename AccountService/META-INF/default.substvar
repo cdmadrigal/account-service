@@ -75,7 +75,7 @@
 		</globalVariable>
 		<globalVariable>
 			<name>//AccountService.module//DB_PASS</name>
-			<value>#!M8UAY9n2eAzIJcNk2VqQc5dmbUbHS7m5b6KOu81SAjw=</value>
+			<value>#!raUh0HsYcJIqAkTBvX56fNVvX3kKXx8PcnXH2PrW9XM=</value>
 			<deploymentSettable>false</deploymentSettable>
 			<serviceSettable>false</serviceSettable>
 			<type>Password</type>
